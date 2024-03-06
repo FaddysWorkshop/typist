@@ -1,0 +1,23 @@
+{
+  "name": "@faddys/typist",
+  "version": "1.0.0",
+  "description": "Faddy's Typist for Playable Text Editing",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaddysWorkshop/typist.git"
+  },
+  "author": "Faddy Michel <faddy.michel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FaddysWorkshop/typist/issues"
+  },
+  "homepage": "https://github.com/FaddysWorkshop/typist#readme",
+  "dependencies": {
+    "@faddys/scenarist": "^1.0.0"
+  }
+}
